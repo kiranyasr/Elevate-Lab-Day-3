@@ -1,7 +1,6 @@
 
 # Elevate-Lab-Day-3
 
-# Elevate-Lab-Day-3
 # Linear Regression Project
 
 ### Objective
